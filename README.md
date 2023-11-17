@@ -1,5 +1,4 @@
-# CSE 6363 - Machine Learning Fall 2023
-## Assignment Algorithm: K Nearest Neighbor
+## Implementing a  K Nearest Neighbor model
 
 - project summary.
 - Installation and set ups.
